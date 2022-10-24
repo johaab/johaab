@@ -1,7 +1,7 @@
 ### :sparkles: Hi there, it's me, Jonathan ! :sparkles:
 
-- :books: I’m recently completed my [Master in Computational Biology and Bioinformatics](https://cbb.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html)
-- :busts_in_silhouette: I'm an active member of the [Committee for Computational Biology and Bioinformatics students](https://vis.ethz.ch/en/about/committees/ccbb) of my University
+- :books: I recently completed my [Master in Computational Biology and Bioinformatics](https://cbb.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html)
+- :busts_in_silhouette: I was an active member of the [Committee for Computational Biology and Bioinformatics students](https://vis.ethz.ch/en/about/committees/ccbb) of my University
 - :speaking_head: I speak English and French
 - :email: You can reach me by email: <johaab@student.ethz.ch>
 - :briefcase: Here's my [Linkedin](https://www.linkedin.com/in/jonathan-haab/)
