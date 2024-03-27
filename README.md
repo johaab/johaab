@@ -1,6 +1,7 @@
 ### :sparkles: Hi there, it's me, Jonathan ! :sparkles:
 
-- :books: I recently completed my [Master in Computational Biology and Bioinformatics](https://cbb.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html)
+- :shipit: I'm a Developer at [OWT](https://www.owt.swiss/en/), a Swiss strategy and technology consulting firm
+- :books: I completed my [Master in Computational Biology and Bioinformatics](https://cbb.ethz.ch/) at [ETH Zürich](https://ethz.ch/en.html) in 2022
 - :busts_in_silhouette: I was an active member of the [Committee for Computational Biology and Bioinformatics students](https://vis.ethz.ch/en/about/committees/ccbb) of my University
 - :speaking_head: I speak English and French
 - :email: You can reach me by email: <jonathan.haab@gmail.com>
